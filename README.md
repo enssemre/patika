@@ -49,3 +49,17 @@ Average case
 ```
 O(logn) olur
 ```
+# Binary Sort Tree Projesi
+```
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2
+root 5 olur
+solunda 2 olur
+sağında 7 olur
+
+2 nin solunda 0 sağında 3 olur
+7 nin solunda 6 sağında 8 olur
+
+son olarak
+3 ün solunda 1 sağında 4 olur
+8 in sağında 9 olur
+```
